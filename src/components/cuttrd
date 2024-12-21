@@ -1,0 +1,96 @@
+
+      {/* <div className="flex justify-center gap-4 mt-[50px]">
+        <a
+          href="#"
+          className="block p-6 bg-[#FAFAFA] border border-gray-200 rounded-md shadow w-[315px] h-[244px]"
+        >
+          <div className="flex justify-center items-center h-[50px] w-[50px] mx-auto">
+            <i className="ri-calendar-2-line text-center text-3xl text-[#F54F35]"></i>
+          </div>
+
+          <h5 className="flex justify-center text-center mb-2 text-2xl font-bold tracking-tight text-black">
+            Scheduling
+          </h5>
+          <p className="font-normal text-[#475467] text-center">
+            Manage appointments, classes, and events, workshops with...
+          </p>
+          <p className="text-[#0000EE] text-center mt-2">
+            View details <i className="ri-arrow-right-line"></i>
+          </p>
+        </a>
+
+        <a
+          href="#"
+          className="block p-6 bg-[#FAFAFA] border border-gray-200 rounded-md shadow w-[315px] h-[205px]"
+        >
+          <h5 className="flex justify-center text-center mb-2 text-[20px] font-bold tracking-tight text-black">
+            Client Management & CRM
+          </h5>
+          <p className="font-normal text-[#475467] text-center">
+            Keep track of customer data, preferences, and interactions to...
+          </p>
+          <p className="text-[#0000EE] text-center mt-4">
+            View details <i className="ri-arrow-right-line"></i>
+          </p>
+        </a>
+        <a
+          href="#"
+          className="block p-6 bg-[#FAFAFA] border border-gray-200 rounded-md shadow w-[315px] h-[244px]"
+        >
+          <div className="flex justify-center items-center h-[50px] w-[50px] mx-auto">
+            <i className="ri-magic-line text-center text-3xl text-[#F54F35]"></i>
+          </div>
+
+          <h5 className="flex justify-center text-center mb-2 text-2xl font-bold tracking-tight text-black">
+            AI Powered Insights
+          </h5>
+          <p className="font-normal text-[#475467] text-center">
+            Know exactly what is happening in business and get actionable...
+          </p>
+          <p className="text-[#0000EE] text-center mt-2">
+            View details <i className="ri-arrow-right-line"></i>
+          </p>
+        </a>
+      </div>
+
+      <div className="max-w-sm bg-white border border-gray-200 rounded-lg shadow dark:bg-gray-800 dark:border-gray-700 mt-10">
+        <a href="#">
+          <img
+            className="rounded-t-lg"
+            src="/docs/images/blog/image-1.jpg"
+            alt=""
+          />
+        </a>
+        <div className="p-5">
+          <a href="#">
+            <h5 className="mb-2 text-2xl font-bold tracking-tight text-gray-900 dark:text-white">
+              Noteworthy technology acquisitions 2021
+            </h5>
+          </a>
+          <p className="mb-3 font-normal text-gray-700 dark:text-gray-400">
+            Here are the biggest enterprise technology acquisitions of 2021 so
+            far, in reverse chronological order.
+          </p>
+          <a
+            href="#"
+            className="inline-flex items-center px-3 py-2 text-sm font-medium text-center text-white bg-blue-700 rounded-lg hover:bg-blue-800 focus:ring-4 focus:outline-none focus:ring-blue-300 dark:bg-blue-600 dark:hover:bg-blue-700 dark:focus:ring-blue-800"
+          >
+            Read more
+            <svg
+              className="rtl:rotate-180 w-3.5 h-3.5 ms-2"
+              aria-hidden="true"
+              xmlns="http://www.w3.org/2000/svg"
+              fill="none"
+              viewBox="0 0 14 10"
+            >
+              <path
+                stroke="currentColor"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                stroke-width="2"
+                d="M1 5h12m0 0L9 1m4 4L9 9"
+              />
+            </svg>
+          </a>
+        </div>
+      </div> */}
